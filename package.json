@@ -1,5 +1,7 @@
 {
 	"name": "fcc-learn-npm-package-json",
+	"version": "1.0.0",
+	"author": "Mustafa Tozlu",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
@@ -9,6 +11,6 @@
 	},
 	"repository": {
 		"type": "git",
-		"url": "https://idontknow/todo.git"
+		"url": "https://github.com/mtozlu/boilerplate-npm"
 	}
 }
